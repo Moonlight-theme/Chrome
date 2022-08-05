@@ -13,11 +13,11 @@
 
 </div>
 
-<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/ZGdXKdI.png"> Description</h2>
+<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/ZGdXKdI.png"> Description</h2>
 
 A simple moonlight them for chrome...
 
-<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/47tcmEc.png"> Utilization</h2>
+<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/47tcmEc.png"> Utilization</h2>
 
 1. download [Moonlight.theme.for.Chrome.zip](https://github.com/Moonlight-color-theme/Chrome/releases/download/1.0/Moonlight.theme.for.Chrome.zip) 
 2. Extract it
@@ -29,7 +29,7 @@ A simple moonlight them for chrome...
 8. click <kbd>select folder</kbd>
 9. Enjoy 😄
   
-<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/eK12XXt.png"> Author</h2>
+<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/eK12XXt.png"> Author</h2>
 
 
 
@@ -41,12 +41,12 @@ A simple moonlight them for chrome...
 
 [+ some awesome contributors](https://github.com/Moonlight-color-theme/Chrome/graphs/contributors)
   
-<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/NXaOnPt.png"> Show your support</h2>
+<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/NXaOnPt.png"> Show your support</h2>
 
 Give a ⭐️ if you like this port!
   
-<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/8zmDXkV.png"> License</h2>
+<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/8zmDXkV.png"> License</h2>
 
 Copyright © 2022 [Abod1960](https://github.com/Abod1960)<br>
-This project is licensed under the [GNU General Public](https://github.com/Moonlight-color-theme/new-port-template/blob/main/LICENSE) license.<br>
+This project is licensed under the [GNU General Public](https://github.com/Moonlight-color-theme/Chrome/blob/main/LICENSE) license.<br>
 
